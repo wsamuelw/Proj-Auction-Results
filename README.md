@@ -19,3 +19,10 @@ View(AUCTION_MERGED)
 ```
 
 ![Image 2](https://github.com/wsamuelw/Proj_Auction_Results/blob/master/IMG/img_2.PNG)
+
+# 3, Data Visualization
+
+![Image 3](https://github.com/wsamuelw/Proj_Auction_Results/blob/master/IMG/img_3.PNG)
+
+Here is another interactive map including some html code and emojis
+http://rpubs.com/samuel_wong_/Melbourne-auction-results-29-04-17

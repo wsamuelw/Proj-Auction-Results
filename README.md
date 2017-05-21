@@ -1,5 +1,8 @@
 # Project Auction Results
-Get the auction results from XYZ
+
+This demo is purely for research purposes. The quality of the data = questionable. The methodologies = not the best.
+
+# 1, Data extraction
 
 ```{r}
 # View the data

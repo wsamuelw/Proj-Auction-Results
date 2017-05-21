@@ -69,5 +69,14 @@ AUCTION_MEL <- data.frame(address_df, property_type_df, bedroom_df, sold_method_
 names(AUCTION_MEL)
 # "Address"       "Suburb"        "Property_Type" "Bedroom"       "Sold_Method"   "Agent"         "Price"       
 
+head(AUCTION_MEL)
+# Address       Suburb Property_Type Bedroom      Sold_Method                   Agent  Price
+# 2     6/205 Gipps St   ABBOTSFORD          Unit       2                  Biggin & Scott Richmond  $870k
+# 3        67B Park St   ABBOTSFORD     Townhouse       3                       Beller Residential $1.27m
+# 4    518/1 Acacia Pl   ABBOTSFORD          Unit       1 Private Exchange Biggin & Scott Richmond  $325k
+# 5 411/8 Grosvenor St   ABBOTSFORD          Unit       2 Private Exchange   Jellis Craig Richmond  $705k
+# 7     2/80 Hawker St AIRPORT WEST          Unit       2 Private Exchange    Barry Plant Essendon  $520k
+# 8       83 Hawker St AIRPORT WEST         House       3 Private Exchange     Pennisi Real Estate  $939k
+
 # I always like to view the data to get a feel
 View(AUCTION_MEL)

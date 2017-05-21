@@ -73,3 +73,6 @@ names(AUCTION_MERGED)
 
 # View the data
 View(AUCTION_MERGED)
+
+# I know the data can have duplicate rows
+# I am going to skip this part for you to figure out how to remove dups

@@ -1,7 +1,6 @@
 library(rvest)
 #library(help = rvest)
 
-# test 999
 url <- 'Paste the URL here'
 webpage <- read_html(url)
 
